@@ -1,5 +1,5 @@
 # Cape Safari
-The live site can be viewed [here](https://wondrouswebworks.github.io/cape-safari/)
+The live site can be viewed [here](https://johannalberts.github.io/cape-safari/)
 
 This a website created for a fictional company, Cape Safari, which claims to offer a unique safari eperience in their wildlife reserve in the Cape region of South Africa. The site provides information on Cape Safari itself, reviews, accommodation types, and image gallery, the nearby city of Cape Town and upcoming events. It allows visitors to sign up to the site and make a booking if they want to arrange a visit to Cape Safari.
 ## UX
